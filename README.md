@@ -1,3 +1,3 @@
 # thefirsttest
-my first repository
-#so that's it
+my first repository/n
+# so it is my first repository
